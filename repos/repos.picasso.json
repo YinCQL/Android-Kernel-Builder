@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "Picasso-Kernel",
-      "repo": "https://github.com/EndCredits/kernel_xiaomi_sm7250",
-      "branch": "android-4.19",
+      "repo": "https://github.com/YinCQL/kernel_xiaomi_7250",
+      "branch": "log",
       "device": "picasso",
       "defconfig": "picasso_user_defconfig"
     },
