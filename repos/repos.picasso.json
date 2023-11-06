@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "Picasso-Kernel",
+      "name": "Kernel",
       "repo": "https://github.com/YinCQL/kernel_xiaomi_7250",
       "branch": "log",
       "device": "picasso",
