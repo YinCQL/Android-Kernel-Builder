@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "Kernel",
       "repo": "https://github.com/YinCQL/kernel_xiaomi_7250",
-      "branch": "log",
+      "branch": "android-4.19",
       "device": "picasso",
       "defconfig": "picasso_user_defconfig"
     },
